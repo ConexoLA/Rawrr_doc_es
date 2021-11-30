@@ -1,0 +1,12 @@
+[build]
+publish = "docs/public"
+command = """hugo \
+  --source docs \
+  --config config.toml \
+  --themesDir themes \
+  --theme hugo-geekdoc """
+
+[build.environment]
+HUGO_VERSION = "0.82.1"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
