@@ -1,10 +1,10 @@
 ---
 more:
-  - name: Releases
+  - name: Lanzamientos
     ref: "https://github.com/ConexoLA/RAWRR/releases/latest"
     external: true
     icon: "download"
-  - name: "View Source"
+  - name: "Ver código fuente"
     ref: "https://github.com/ConexoLA/RAWRR"
     external: true
     icon: "github"
