@@ -1,5 +1,5 @@
 ---
-title: Threats
+title: Amenazas
 description: 
 weight: "4"
 
@@ -7,9 +7,9 @@ weight: "4"
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="activities" >}} <i class="arrow left"></i> Activities {{< /button >}}
+{{< button size="large" relref="actividades" >}} <i class="arrow left"></i> Actividades {{< /button >}}
 
-{{< button size="large" relref="vulnerabilities" >}} Vulnerabilities <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="vulnerabilidades" >}} Vulnerabilidades <i class="arrow right"></i>{{< /button >}}
 </div>
 
 RAWRR uses the Risks-Vulnerabilities-Recommendations framework and therefore threat and risk management is one of the first logical steps. Each threat can be assigned a level of impact on the organization's work as well as a level of the probability of occurrence. The basic features of RAWRR related to threats are:
@@ -55,7 +55,7 @@ You can also delete multiple threats by selecting them in the left box and then 
 ![](/images/am-eliminar-3.png)
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="activities" >}} <i class="arrow left"></i> Activities {{< /button >}}
+{{< button size="large" relref="actividades" >}} <i class="arrow left"></i> Actividades {{< /button >}}
 
-{{< button size="large" relref="vulnerabilities" >}} Vulnerabilities <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="vulnerabilidades" >}} Vulnerabilidades <i class="arrow right"></i>{{< /button >}}
 </div>

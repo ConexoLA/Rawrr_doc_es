@@ -1,5 +1,5 @@
 ---
-title: Recommendations
+title: Recomendaciones
 description: 
 weight: "6"
 
@@ -7,9 +7,9 @@ weight: "6"
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="vulnerabilities" >}} <i class="arrow left"></i> Vulnerabilities {{< /button >}}
+{{< button size="large" relref="vulnerabilidades" >}} <i class="arrow left"></i> Vulnerabilidades{{< /button >}}
 
-{{< button size="large" relref="reports" >}} Reports <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="reportes" >}} Reportes <i class="arrow right"></i>{{< /button >}}
 </div>
 
 One of the main goals of the assessment is to produce recommendations that will hopefully have a positive impact on the security of the organization. During this step, those recommendations will be specified and linked to vulnerabilities. The basic functions of RAWRR related to recommendations are:
@@ -57,7 +57,7 @@ You can also delete multiple recommendations by selecting them in the left box a
 ![](/images/rec-eliminar-3.png)
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="vulnerabilities" >}} <i class="arrow left"></i> Vulnerabilities {{< /button >}}
+{{< button size="large" relref="vulnerabilidades" >}} <i class="arrow left"></i> Vulnerabilidades {{< /button >}}
 
-{{< button size="large" relref="reports" >}} Reports <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="reportes" >}} Reportes <i class="arrow right"></i>{{< /button >}}
 </div>

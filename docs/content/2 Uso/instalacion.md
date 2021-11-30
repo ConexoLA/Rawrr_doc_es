@@ -1,14 +1,14 @@
 ---
-title: Installation
+title: Instalación
 weight: "2"
 
 ---
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="getting-started" >}} <i class="arrow left"></i> Getting started  {{< /button >}}
+{{< button size="large" relref="inicio" >}} <i class="arrow left"></i> Inicio  {{< /button >}}
 
-{{< button size="large" relref="FAQs" >}} FAQs <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="preguntas-frecuentes" >}} Preguntas frecuentes <i class="arrow right"></i>{{< /button >}}
 
 </div>
 
@@ -90,8 +90,8 @@ npm run electron:build
 ```
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="getting-started" >}} <i class="arrow left"></i> Getting started {{< /button >}}
+{{< button size="large" relref="inicio" >}} <i class="arrow left"></i> Inicio {{< /button >}}
 
-{{< button size="large" relref="FAQs" >}} FAQs <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="preguntas-frecuentes" >}} Preguntas Frecuentes <i class="arrow right"></i>{{< /button >}}
 
 </div>

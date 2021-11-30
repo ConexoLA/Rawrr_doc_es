@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Inicio
 weight: "1"
 
 ---
@@ -12,6 +12,6 @@ You can start using RAWRR by downloading the appropriate binary file from this [
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="#" >}}<i class="arrow left"></i> {{< /button >}}
 
-{{< button size="large" relref="installation" >}} Installation <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="instalacion" >}} Instalación <i class="arrow right"></i>{{< /button >}}
 
 </div>

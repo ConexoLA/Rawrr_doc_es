@@ -1,5 +1,5 @@
 ---
-title: Reports
+title: Reportes
 description: 
 weight: "7"
 
@@ -7,7 +7,7 @@ weight: "7"
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="recommendations" >}} <i class="arrow left"></i> Recommendations {{< /button >}}
+{{< button size="large" relref="recomendaciones" >}} <i class="arrow left"></i> Recomendaciones {{< /button >}}
 
 {{< button size="large" relref="#" >}} <i class="arrow right"></i>{{< /button >}}
 </div>
@@ -47,7 +47,7 @@ Next, select the format in which you want to export, and in your operating syste
 ![](/images/rep-exportar-2.png)
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="recommendations" >}} <i class="arrow left"></i> Recommendations {{< /button >}}
+{{< button size="large" relref="recomendaciones" >}} <i class="arrow left"></i> Recomendaciones {{< /button >}}
 
 {{< button size="large" relref="#" >}} <i class="arrow right"></i>{{< /button >}}
 </div>

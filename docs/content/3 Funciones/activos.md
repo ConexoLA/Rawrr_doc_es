@@ -1,5 +1,5 @@
 ---
-title: Assets
+title: Activos
 description: 
 weight: "2"
 
@@ -7,9 +7,9 @@ weight: "2"
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="home" >}}  <i class="arrow left"></i> Home {{< /button >}}
+{{< button size="large" relref="inicio" >}}  <i class="arrow left"></i> Inicio {{< /button >}}
 
-{{< button size="large" relref="activities" >}} Activities <i class="arrow right"></i> {{< /button >}}
+{{< button size="large" relref="actividades" >}} Actividades<i class="arrow right"></i> {{< /button >}}
 
 </div>
 
@@ -56,8 +56,8 @@ You can also delete multiple assets by selecting them in the left box and then c
 ![](/images/as-delete-varios.png)
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="home" >}} <i class="arrow left"> </i> Home {{< /button >}}
+{{< button size="large" relref="inicio" >}} <i class="arrow left"> </i> Inicio {{< /button >}}
 
-{{< button size="large" relref="activities" >}} Activities <i class="arrow right"></i> {{< /button >}}
+{{< button size="large" relref="actividades" >}} Actividades <i class="arrow right"></i> {{< /button >}}
 
 </div>

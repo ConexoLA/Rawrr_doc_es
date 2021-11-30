@@ -1,6 +1,6 @@
 ---
-title: 3 Functions
-description: This is the functions main page description
+title: 3 Funciones
+description: Esta es la página principal de las Funciones
 
 ---
 The following are the basic functions of RAWRR. They respond to the order set out in section 6 related to workflows, although they can be executed in the order in which the user wishes.

@@ -1,6 +1,6 @@
 ---
-title: Workflows
-description: Desccription of the workflows page
+title: Flujos
+description: Desccripción de la página de Flujos
 weight: "4"
 
 ---
@@ -8,7 +8,7 @@ weight: "4"
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="installation" >}} <i class="arrow left"></i> Installation  {{< /button >}}
+{{< button size="large" relref="instalacion" >}} <i class="arrow left"></i> Instalación  {{< /button >}}
 
 {{< button size="large" relref="#" >}} <i class="arrow right"></i>{{< /button >}}
 </div>
@@ -56,7 +56,7 @@ During this step the evaluator orders and prioritizes the recommendations from s
 During this step the document or documents to be delivered to the organization are developed. Options such as the number of reports, the target audiences and the information to include are made here. This step is mandatory, as a report is the main way of communicating the results of an assessment. This does not preclude questioning, oral presentations, or other ways of transmitting information. 
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="installation" >}} <i class="arrow left"></i> Installation  {{< /button >}}
+{{< button size="large" relref="instalacion" >}} <i class="arrow left"></i> Instalación  {{< /button >}}
 
 {{< button size="large" relref="#" >}} <i class="arrow right"></i>{{< /button >}}
 </div>

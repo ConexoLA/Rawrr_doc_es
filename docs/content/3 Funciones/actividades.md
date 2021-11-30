@@ -1,5 +1,5 @@
 ---
-title: Activities
+title: Actividades
 description: 
 weight: "3"
 
@@ -7,9 +7,9 @@ weight: "3"
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="assets" >}} <i class="arrow left"></i> Assets {{< /button >}}
+{{< button size="large" relref="activos" >}} <i class="arrow left"></i> Activos {{< /button >}}
 
-{{< button size="large" relref="threats" >}} Threats <i class="arrow right"></i> {{< /button >}}
+{{< button size="large" relref="amenazas" >}} Amenazas <i class="arrow right"></i> {{< /button >}}
 </div>
 
 Some examples of the activities include interviews, technical scans, and additional asset or data mapping. The basic functions of RAWRR related to the activities are:
@@ -53,7 +53,7 @@ You can also delete multiple activities by selecting them in the left box and th
 ![](/images/ac-eliminar-3.png)
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="assets" >}} <i class="arrow left"></i> Assets {{< /button >}}
+{{< button size="large" relref="activos" >}} <i class="arrow left"></i> Activos {{< /button >}}
 
-{{< button size="large" relref="threats" >}} Threats <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="amenazas" >}} Amenazas <i class="arrow right"></i>{{< /button >}}
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio
 description: 
 weight: "1"
 
@@ -9,7 +9,7 @@ weight: "1"
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="#" >}} <i class="arrow left"></i> {{< /button >}}
 
-{{< button size="large" relref="assets" >}} Assets <i class="arrow right"></i> {{< /button >}}
+{{< button size="large" relref="activos" >}} Activos <i class="arrow right"></i> {{< /button >}}
 
 </div>
 
@@ -28,6 +28,6 @@ Then, you will be able to start loading/editing the information related to the s
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="#" >}} <i class="arrow left"></i> {{< /button >}}
 
-{{< button size="large" relref="assets" >}} Assets <i class="arrow right"></i> {{< /button >}}
+{{< button size="large" relref="activos" >}} Activos <i class="arrow right"></i> {{< /button >}}
 
 </div>

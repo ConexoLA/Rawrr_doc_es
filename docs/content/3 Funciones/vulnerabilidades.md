@@ -1,5 +1,5 @@
 ---
-title: Vulnerabilities
+title: Vulnerabilidades
 description: 
 weight: "5"
 
@@ -7,9 +7,9 @@ weight: "5"
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="threats" >}} <i class="arrow left"></i> Threats {{< /button >}}
+{{< button size="large" relref="amenazas" >}} <i class="arrow left"></i> Amenazas {{< /button >}}
 
-{{< button size="large" relref="recommendations" >}} Recommentations <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="recomendaciones" >}} Recomendaciones <i class="arrow right"></i>{{< /button >}}
 </div>
 
 One result of the assessment activities is to find vulnerabilities. They can be specified and linked to the activities that generated them and the related risks. The basic functions of RAWRR related to vulnerabilities are:
@@ -55,7 +55,7 @@ You can also delete various vulnerabilities by selecting them in the left box an
 ![](/images/vul-eliminar-3.png)
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="threats" >}} <i class="arrow left"></i> Threats  {{< /button >}}
+{{< button size="large" relref="amenazas" >}} <i class="arrow left"></i> Amenazas  {{< /button >}}
 
-{{< button size="large" relref="recommendations" >}} Recommentations <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="recomendaciones" >}} Recomendaciones <i class="arrow right"></i>{{< /button >}}
 </div>

@@ -1,6 +1,6 @@
 ---
-title: FAQs
-description: Desccription of the FAQs page
+title: Preguntas Frecuentes
+description: Descripción de la página de Preguntas Frecuentes
 weight: "3"
 
 ---
@@ -8,9 +8,9 @@ weight: "3"
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="installation" >}} <i class="arrow left"></i> Installation  {{< /button >}}
+{{< button size="large" relref="instalacion" >}} <i class="arrow left"></i> Instalación  {{< /button >}}
 
-{{< button size="large" relref="workflows" >}} Workflows <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="flujos" >}} Flujos <i class="arrow right"></i>{{< /button >}}
 
 </div>
 
@@ -54,8 +54,8 @@ We are working towards a new version of RAWRR in 2022 that potentially has the f
 - Rich text editing
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="installation" >}} <i class="arrow left"></i> Installation  {{< /button >}}
+{{< button size="large" relref="instalacion" >}} <i class="arrow left"></i> Instalación  {{< /button >}}
 
-{{< button size="large" relref="workflows" >}} Workflows <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="flujos" >}} Flujos <i class="arrow right"></i>{{< /button >}}
 
 </div>
