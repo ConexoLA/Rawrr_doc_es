@@ -1,6 +1,6 @@
 ---
-title: 1 Introduction
-description: 'Here you will find what RAWRR is and who it is for. '
+title: 1 Introducción
+description: 'Acá conseguirás información sobre qué es RAWRR y para qué se usa'
 
 ---
-Here you will find what RAWRR is and who it is for.
+Acá conseguirás información sobre qué es RAWRR y para qué se usa
