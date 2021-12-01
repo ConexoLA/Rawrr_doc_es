@@ -1,10 +1,9 @@
 ---
 title: Flujos
-description: Desccripción de la página de Flujos
+description: Descripción de la página de Flujos
 weight: "4"
 
 ---
-
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
