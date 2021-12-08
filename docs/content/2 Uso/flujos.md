@@ -12,47 +12,46 @@ weight: "4"
 {{< button size="large" relref="#" >}} <i class="arrow right"></i>{{< /button >}}
 </div>
 
-RAWRR has been based on the workflows proposed by the SAFETAG methodology. These are intended to provide a structure capable of including multiple types of security interventions through stages, some of which may be optional. The only steps that are required during the assessment are the pre-assessment activities, the development of recommendations, and the preparation of a report. 
+RAWRR ha sido diseñado utilizando como base los flujos de trabajo que propone la metodología de [SAFETAG](https://safetag.org/). Estos están destinados a proporcionar una estructura capaz de incluir múltiples tipos de intervenciones de seguridad a través de pasos o etapas, algunos de los cuales pueden ser opcionales. Los únicos pasos que son obligatorios durante la evaluación son las actividades de pre evaluación, el desarrollo de recomendaciones y la elaboración de un informe.
 
-These stages are briefly described below with the aim of offering people who wish to use RAWRR a broader context based on the methodological basis that was used to develop the program. For more information on workflows and, in general, on how to carry out security audits or interventions under the SAFETAG methodology, we recommend visiting https://safetag.org/. 
+A continuación describimos resumidamente estas etapas con el objetivo de ofrecerle a los personas que deseen utilizar RAWRR un contexto más amplio sobre la base metodológica que se utilizó para desarrollar el programa. Para más información sobre los flujos de trabajo y, en general, sobre cómo llevar a cabo auditorías o intervenciones de seguridad bajo la metodología de SAFETAG recomendamos visitar [https://safetag.org/](https://safetag.org/ "https://safetag.org/").
 
+# Pasos del flujo de trabajo relacionados con la evaluación
 
-# Assessment-related workflow steps 
+## Paso 1: Actividades de preevaluación
 
-## Step 1: Pre-assessment activities 
+Las actividades de preevaluación pueden incluir la selección de la organización, entrevistas iniciales, investigación del contexto, logística, planificación y, especialmente, definición de las actividades que se realizarán durante la intervención. Este paso es necesario para todas las intervenciones de evaluación, incluso si la profundidad y la amplitud cambian según el caso. Estas actividades pueden o no ser cargadas en RAWRR, pero suele ser imposible hacer una intervención sin hacer actividades de preevaluación.
 
-Pre-assessment activities may include the selection of the organization, initial interviews, investigation of the context, logistics, planning and, especially, definition of the activities to be carried out during the intervention. This step is necessary for all assessment interventions, even if the depth and breadth changes from case to case. These activities may or may not be loaded into RAWRR, but it is often impossible to do an intervention without doing pre-assessment activities. 
+## Paso 2: Modelado de la estructura base
 
-## Step 2: Modeling the base structure 
+Durante esta actividad, el evaluador modela la “estructura base”, que definimos como el conjunto inicial de ítems del que puede surgir el resto de la intervención. Algunos ejemplos de estructuras de base pueden incluir:
 
-During this activity, the evaluator models the “base structure”, which we define as the initial set of items from which the rest of the intervention can emerge. Some examples of base structures may include: 
+* **Lista básica de amenazas:** número de amenazas identificadas por la organización y el evaluador.
+* **Matriz de riesgo:** Amenazas mapeadas con probabilidad de ocurrencia e impacto potencial.
+* **Objetivos de seguridad:** objetivos iniciales de la intervención, como "asegurar las comunicaciones de la organización" o "proteger el sitio web".
+* **Lista de activos:** hardware y software utilizados por la organización que pueden ser susceptibles de verse comprometidos.
 
-- **Basic Threat List:** threats identified by the organization and the evaluator.
-- **Risk matrix:** Threats mapped with probability of occurrence and potential impact.
-- **Security objectives:** initial objectives of the intervention, such as "securing the organization's communications" or "protecting the website". 
-- **List of assets:** hardware, software and other resources used by the organization that may be susceptible to being compromised. 
+Nuestro enfoque principal ha sido el uso de la estructura base de la "matriz de riesgo", ya que hemos descubierto que funciona mejor para identificar las prioridades de la organización en nuestro contexto. Se recomienda este paso, pero no es obligatorio.
 
-Our primary focus has been to use the base structure of the "risk matrix", as we have found that it works best to identify the priorities of the organization. This step is recommended, but not required. 
+## Paso 3: Ejecución de las actividades de evaluación
 
-## Step 3: Execution of evaluation activities 
+Durante este paso se ejecutan actividades con el objetivo de recopilar información de la organización. Estas pueden incluir entrevistas a profundidad con coordinadores de áreas, mapeo adicional de datos/activos/adversarios y escaneos técnicos. Los resultados de estas actividades están documentados y sirven como entrada para el siguiente paso. Se recomienda este paso, pero no es obligatorio.
 
-During this step, activities are carried out in order to collect information from the organization. These may include in-depth interviews with area coordinators, additional data / asset / adversary mapping, and technical scans. The results of these activities are documented and serve as input for the next step. This step is recommended, but not required. 
+## Paso 4: Especificación de vulnerabilidades
 
-## Step 4: Specify vulnerabilities 
+A partir del modelado de la estructura base y la ejecución de actividades de evaluación, se pueden obtener una serie de vulnerabilidades. Durante este paso, se especifican, se hace referencia a ellas y se vinculan con las actividades que las generaron y los elementos de la estructura base relacionados (como amenazas / riesgos). Se recomienda este paso, pero no es obligatorio.
 
-From the modeling of the base structure and the execution of evaluation activities, a series of vulnerabilities can be obtained. During this step, they are specified, referenced, and linked to the activities that generated them and the related core structure elements (such as threats / risks). This step is recommended, but not required. 
+## Paso 5: Creación y desarrollo de recomendaciones
 
-## Step 5: Create and develop recommendations 
+Durante este paso el evaluador desarrolla una serie de acciones sugeridas para que la organización las tome para aumentar su seguridad. Pueden ser muy específicas (“actualizar el plugin x en el sitio web”) o muy vagas (“Escribir e implementar una política de seguridad con respecto a X”), dependiendo del estilo del evaluador y la naturaleza de la organización. Este paso es obligatorio. Las intervenciones de seguridad se pueden realizar sin recomendaciones, pero nuestra postura es que el objetivo siempre debe ser tener un impacto en la seguridad de la organización y las recomendaciones son una de las mejores formas de lograrlo.
 
-During this step, the evaluator develops a series of suggested actions for the organization to take to increase its security. They can be very specific ("update plugin x on website") or very vague ("Write and implement a security policy regarding X"), depending on the style of the tester and the nature of the organization. This step is mandatory. Security interventions can be performed without recommendations, but our position is that the goal should always be to have an impact on the security of the organization and recommendations are one of the best ways to achieve this. 
+## Paso 6: Definición de hojas de ruta de implementación
 
-## Step 6: Defining implementation roadmaps 
+Durante este paso el evaluador ordena y prioriza las recomendaciones del paso 5 de una manera consistente con criterios predefinidos como impacto, facilidad de implementación, objetivos de la organización y preferencia personal. Se recomienda este paso, pero no es obligatorio.
 
-During this step the evaluator orders and prioritizes the recommendations from step 5 in a manner consistent with predefined criteria such as impact, ease of implementation, organizational objectives, and personal preference. This step is recommended, but not required. 
+## Paso 7: Creación de informes
 
-## Step 7: Create reports 
-
-During this step the document or documents to be delivered to the organization are developed. Options such as the number of reports, the target audiences and the information to include are made here. This step is mandatory, as a report is the main way of communicating the results of an assessment. This does not preclude questioning, oral presentations, or other ways of transmitting information. 
+Durante este paso se desarrolla el documento o documentos que se entregarán a la organización. Las opciones como el número de informes, las audiencias objetivo y la información a incluir se realizan aquí. Este paso es obligatorio, ya que un informe es la principal forma de comunicar los resultados de una evaluación. Esto no excluye el interrogatorio, las presentaciones orales u otras formas de transmitir información.
 
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="instalacion" >}} <i class="arrow left"></i> Instalación  {{< /button >}}
