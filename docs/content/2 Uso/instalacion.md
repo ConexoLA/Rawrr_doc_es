@@ -12,42 +12,43 @@ weight: "2"
 
 </div>
 
-RAWRR is an executable and portable file, so it is not necessary to install it as an application on the computer. It is available on Windows, Linux, and MacOS. To obtain it, download the appropriate binary version for your operating system and run it:
+RAWRR es un archivo ejecutable y portable, por lo que no es necesario instalarlo como una aplicación en la computadora. Está disponible en Windows, Linux y MacOS. Para obtenerlo descarga la versión binaria apropiada a tu sistema operativo y ejecútala:
 
-- RAWRR for [Windows](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/Windows.x64.rar)
-- RAWRR for [Linux](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/Linux.x64.zip)
-- RAWRR for [MacOS](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/MacOS.x64.zip)
+* RAWRR para [Windows](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/Windows.x64.rar)
+* RAWRR para [Linux](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/Linux.x64.zip)
+* RAWRR para [MacOS](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/MacOS.x64.zip)
 
-You can also enter the download section at [RAWRR page](https://conexo.org/project/rawrr/) or from our documentation page.
+También puedes entrar en la sección de descarga desde la página de [RAWRR](https://conexo.org/project/rawrr/) o desde nuestra página de [documentación.](https://rawrrdocs.netlify.app/2-usage/getting-started/)
 
-Additionally, you can compile from source code by following the instructions below:
+Adicionalmente, puedes compilar desde el código fuente siguiendo las instrucciones a continuación:
 
-To install the packages that will allow you to modify RAWRR or, in the other case, to build the executable, please follow these steps:
+Para instalar los paquetes que te permitirán modificar RAWRR o, en el otro caso, construir el ejecutable, sigue estos pasos:
 
-1. Select the base directory in which you want to download RAWRR.
+1. Selecciona el directorio base en el que deseas descargar RAWRR
 
    ```Shell
    # Modify the working directory
    cd path/to/working/directory
    ```
 
-{{< hint info >}}
-**Optional**  
-If you need to create the directory you can easily run <span style="color:grey">**`mkdir path/to/working/directory`**</span>
+{{< hint info >}} 
+
+**Opcional**  
+Si necesitas crear el directorio, puedes ejecutarlo fácilmente con <span style="color:grey">**`mkdir path/to/working/directory`**</span>
 
 {{< /hint >}}
 
-1. Clone our RAWRR repository.
+1. Clona nuestro repositorio RAWRR
 
    ```Shell
    # Cloning base repository
    git clone https://github.com/ConexoLA/Rawrr_dev.git
    ```
-2. Install dependencies
+2. Instala las dependencias
 
-Depending on the usage you want to give to RAWRR, you may modify the code using the hot-reload functionality or generate the executable by building the project.
+Dependiendo del uso que desees darle a RAWRR, puedes modificar el código usando la funcionalidad de recarga en caliente o generar el ejecutable compilando el proyecto.
 
-In both cases, you must install all the packages available in `package.json`.
+En ambos casos debes instalar todos los paquetes disponibles en: `package.json`.
 
 ```Shell
 # install package.json packages
@@ -56,34 +57,33 @@ npm install
 
 ![npm install image](/images/npm_install.png)
 
-{{< hint info >}}
-**Information**  
-At this point you could:
+{{< hint info >}} 
 
-1. [Modify RAWRR](#modify-rawrr-using-electron) in the case you want to add new functionalities or extend RAWRR. Once you finish your changes, go to step 2.
-2. [Generate the executable](#create-the-rawrr-executable) of RAWRR.
+**Información**  
+En este punto podrías:
+
+1. [Modificar RAWRR](#modify-rawrr-using-electron) en el caso de que desees agregar nuevas funcionalidades o extender RAWRR. Una vez que termines tus cambios, ve al paso 2.
+2. [Generar el ejecutable](#create-the-rawrr-executable) de RAWRR.
 
 {{< /hint >}}
 
-### Modify RAWRR using electron
+### Modificar RAWRR usando electron
 
-If you want to modify RAWRR using the hot reaload option from electron, you can use the following command:
+Si deseas modificar RAWRR usando la opción de recarga en caliente de electron, puedes usar el siguiente comando:
 
 ```Shell
 npm run electron:serve
 ```
 
-This command, will start a development server to test your application (as you can see in the image below).
+Este comando iniciará un servidor de desarrollo para probar la aplicación (como puedes ver en la imagen a continuación)
 
-![Serve image](/images/serve.png)
+![Serve image](/images/serve.png)Después de que se inicie el servidor, te darás cuenta de que la aplicación se está probando en modo de desarrollo porque las herramientas habituales para los desarrolladores están activadas:
 
-After the server is launched, you will realize the application is being tested in development mode because the usual tools for developers are activated:
+ ![](/images/image-1.png)
 
-![Dev mode image](/images/dev_mode.JPG)
+### Crear el ejecutable de RAWRR
 
-### Create the RAWRR executable
-
-If you want to generate the executable of RAWRR, use the following command:
+Si deseas generar el ejecutable de RAWRR, usa el siguiente comando:
 
 ```Shell
 npm run electron:build
