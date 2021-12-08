@@ -1,11 +1,9 @@
 ---
 title: Bienvenido a la documentación de RAWRR
-description: "On this documentation page you can download the Risk Assessment Workflow
-  for Recommendation Roadmaps (RAWRR) program designed to generate reports of organizational
-  security interventions under the SAFETAG methodology.\nYou will also find the user
-  manual for each of its functions, answers to the most frequent questions and additional
-  information about the workflows that have been used as a basis for the design of
-  the program. "
+description: |-
+  En esta página de documentación puedes descargar el programa "Flujo de Trabajo de Evaluación de Riesgos para Hojas de Ruta de Recomendaciones", RAWRR, por sus siglas en inglés (Risk Assessment Workflow for Recommendation Roadmaps), diseñado para generar informes de intervenciones de seguridad organizacional bajo la metodología de SAFETAG.
+
+  También encontrarás el manual de usuarios y usuarias para cada una de sus funciones, respuestas a las preguntas más frecuentes e información adicional sobre los flujos de trabajo que se han utilizado como base para el diseño del programa.
 geekdocNav: false
 geekdocAlign: center
 geekdocAnchor: false
@@ -22,8 +20,8 @@ geekdocAnchor: false
 
 <!-- markdownlint-restore -->
 
-On this documentation page you can download the Risk Assessment Workflow for Recommendation Roadmaps (RAWRR) program designed to generate reports of organizational security interventions under the SAFETAG methodology.
+En esta página de documentación puedes descargar el programa "Flujo de Trabajo de Evaluación de Riesgos para Hojas de Ruta de Recomendaciones", RAWRR, por sus siglas en inglés (Risk Assessment Workflow for Recommendation Roadmaps), diseñado para generar informes de intervenciones de seguridad organizacional bajo la metodología de SAFETAG.
 
-You will also find the user manual for each of its functions, answers to the most frequent questions and additional information about the workflows that have been used as a basis for the design of the program. 
+También encontrarás el manual de usuarios y usuarias para cada una de sus funciones, respuestas a las preguntas más frecuentes e información adicional sobre los flujos de trabajo que se han utilizado como base para el diseño del programa.
 
 {{< button size="large" relref="2 uso/inicio/" >}} Inicio {{< /button >}}
