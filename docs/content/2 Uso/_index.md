@@ -1,6 +1,8 @@
 ---
 title: 2 Uso
-description: Esta es la página principal de la sección de Uso
+description: En esta sección encontrarás la guía de instalación de RAWRR, las respuestas
+  a las preguntas más frecuentes y los flujos de trabajo en los que se ha basado el
+  diseño del programa.
 
 ---
-In the Usage section you will find the RAWRR installation guide, the answers to frequently asked questions and the workflows on which the program design has been based.
+En esta sección encontrarás la guía de instalación de RAWRR, las respuestas a las preguntas más frecuentes y los flujos de trabajo en los que se ha basado el diseño del programa.
