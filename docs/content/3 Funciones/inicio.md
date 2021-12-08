@@ -13,15 +13,14 @@ weight: "1"
 
 </div>
 
-Some basic notes related to the current status of the program appear on the RAWRR home screen and we invite you to send your comments and recommendations for improvements.
+En la pantalla de inicio de RAWRR aparecen algunas notas básicas relacionadas al estado actual del programa y te invitamos a enviar tus comentarios y recomendaciones de mejoras. Adicionalmente aparecen cuatro (4) botones:
 
-Additionally, three (3) buttons appear:
+* **Cargar valores de prueba:** Cuando abres una nueva instancia de RAWRR esta estará vacía, es decir, sin información precargada para ninguna de las secciones. Utiliza este botón si quieres empezar a usar una instancia de RAWRR utilizando los valores de ejemplo por sección.
+* **Importar desde un archivo:** Es posible que una intervención de seguridad tenga varias similitudes con otras que hayas realizado en el pasado. Para reutilizar la información o colaborar con otra persona puedes importar en una nueva instancia de RAWRR el archivo .bd que exportaste en el pasado.
+* **Exportar a un archivo:** RAWRR está diseñado para manejar una organización/intervención de seguridad por instancia. Cuando hayas terminado de cargar la información correspondiente a una organización, o en cualquier momento que lo desees, puedes exportar un archivo con los datos que hayas cargado hasta el momento a manera de respaldo o para ser reutilizado en otra instancia de RAWRR en el futuro. El archivo exportado tendrá la extensión .db.
+* **Eliminar todos los datos:** Permite borrar de la instancia todos los datos que se hayan cargado hasta el momento.
 
-1. **Load test values:** When you open a new instance of RAWRR it will be empty, that is, without preloaded information for any of the sections. Use this button if you want to start using a RAWRR instance using the example values ​​per section.
-2. **Export to file:** RAWRR is designed to handle one organization / intervention per instance. When you have finished uploading the information for an organization, or at any time you wish, you can export a file with the data you have uploaded so far as a backup or to be reused in another instance of RAWRR in the future. The exported file will have the extension .db.
-3. **Import from file:** It is possible that a security intervention has several similarities with others that you have done in the past. To reuse the information or collaborate with another person, you can import a previously exported .bd file into a new RAWRR instance.
-
-Then, you will be able to start loading/editing the information related to the security intervention that you are carrying out and RAWRR will help you with the generation of the recommendations report. Information can be loaded in any order, but the order suggested by the navigation bar is: assets, activities, threats, vulnerabilities, recommendations and report.
+A continuación podrás iniciar la carga/edición de la información relacionada con la intervención de seguridad que estés realizando para que, al finalizar, RAWRR pueda ayudarte con la generación del reporte de recomendaciones. Se puede cargar información en cualquier orden, pero el orden sugerido por la barra de navegación es el siguiente: assets (activos), activities (actividades), threats (amenazas), vulnerabilities (vulnerabilidades), recommendations (recomendaciones) y report (reporte).
 
 ![](/images/pantalla-inicial.png)
 
