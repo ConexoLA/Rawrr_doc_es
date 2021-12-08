@@ -4,7 +4,6 @@ description: Descripción de la página de Preguntas Frecuentes
 weight: "3"
 
 ---
-
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
@@ -14,44 +13,29 @@ weight: "3"
 
 </div>
 
-## Why is RAWRR not accessible from the cloud? 
+## ¿Por qué RAWRR no es accesible desde la nube?
 
-For security reasons and with the intention of preserving the integrity of the information that the organization entrusts to the people in charge of the intervention, RAWRR is designed to be a program for local use. However, we do not rule out that in the future we may find other secure alternatives that allow managing RAWRR from the cloud. 
+Por razones de seguridad y con la intención de preservar la integridad de la información que la organización confía a las personas encargadas de la intervención, RAWRR está diseñado para ser un programa de uso local. Sin embargo, no descartamos que en el futuro podamos encontrar alternativas seguras que permitan administrar RAWRR desde la nube.
 
-## Why is RAWRR not collaborative? 
+## ¿Por qué RAWRR no es colaborativo?
 
-RAWRR is not collaborative from the network as a consequence of not being available in the cloud, however, it is possible to make it collaborative through the import and export of the information that is loaded in each instance, sharing these files safely with other people involved in the security intervention if necessary. 
+RAWRR no es colaborativo desde la red como una consecuencia de que no está disponible en la nube, sin embargo, es posible hacerlo colaborativo a través de la importación y exportación de la información que se carga en cada instancia, compartiendo estos archivos de manera segura con otras personas que participan en la intervención de seguridad si fuera necesario.
 
-## When will RAWRR be available in other languages? 
+## ¿Cómo puedo enviar recomendaciones de mejoras de RAWRR a los desarrolladores?
 
-It is scheduled to be available in Spanish in early 2022. If you want to collaborate with the translation into another language, you can write to us at rawrr@conexo.org. 
+Puedes escribirnos a rawrr@conexo.org.
 
-## How can I send RAWRR enhancement or recommendations to developers? 
+## ¿Cuántas intervenciones de organizaciones se pueden almacenar en RAWRR?
 
-You can write to us at rawrr@conexo.org. 
+RAWRR está diseñado para usar una instancia por organización, incluso en su propio sistema virtual único. Si deseas utilizar la información de una organización como base para una nueva intervención, te recomendamos exportar un archivo con los datos desde el home de RAWRR e importarlo en una nueva instancia. En este sentido, para administrar más de una organización puedes utilizar tantas instancias de RAWRR como organizaciones y/o tantos archivos exportados .bd como organizaciones.
 
-## How many organization interventions can be stored in RAWRR? 
+## ¿Cómo puedo registrar nuevos eventos relacionados a una intervención de seguridad pasada?
 
-RAWRR is designed to use one instance per organization. If you want to use the information of an organization as the base for a new intervention, we recommend that you export a file with the data from the RAWRR home and import it into a new instance. In this sense, to manage more than one organization you can use as many RAWRR instances as there are organizations and/or as many exported .bd files as there are organizations. 
+En este momento RAWRR no cuenta con funciones de seguimiento posterior a la intervención inicial de seguridad, sin embargo, estamos desarrollando esas nuevas funcionalidades para que estén disponibles en el 2022. Mientras tanto, si tienes el archivo .bd de una intervención anterior previamente exportado, puedes utilizarlo como base para realizar los ajustes del seguimiento.
 
-## How can I register new events related to a past security intervention? 
+## ¿Qué medidas debo tomar para proteger la información que almacenaré en RAWRR? 
 
-At this time RAWRR does not have follow-up functions after the initial security intervention, however, we are developing those new functionalities so that they will be available in 2022. In the meantime, if you have the previously exported .bd file of a previous intervention, you can use it as a basis for making follow up adjustments. 
-
-## Which measures should I take to secure the information I’ll be storing in RAWRR? 
-
-We recommend you use RAWRR within an encrypted container like a virtual machine or encrypted volume.
-
-## What are the plans to improve RAWRR in the short term? 
-
-We are working towards a new version of RAWRR in 2022 that potentially has the following new features:
-
-- Spanish version
-- Visualization of the evolution over time by comparing the current state of the organization with past states
-- Management of multiple organizations per instance
-- Accessibility features
-- Custom report sections
-- Rich text editing
+Le recomendamos que utilice RAWRR dentro de un contenedor cifrado como una máquina virtual o un volumen cifrado.
 
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="instalacion" >}} <i class="arrow left"></i> Instalación  {{< /button >}}
