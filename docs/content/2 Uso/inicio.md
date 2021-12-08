@@ -3,7 +3,7 @@ title: Inicio
 weight: "1"
 
 ---
-You can start using RAWRR by downloading the appropriate binary file from this [link](https://github.com/ConexoLA/RAWRR/releases/latest), or you can see a step by step installation guide below.
+Puedes comenzar a usar RAWRR descargando el archivo binario apropiado desde este [enlace](https://github.com/ConexoLA/RAWRR/releases/latest), o puedes ver la guía de instalación paso a paso a continuación.
 
 <!--more-->
 
