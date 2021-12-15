@@ -1,6 +1,6 @@
 ---
 title: 3 Funciones
-description: Esta es la página principal de las Funciones
+description: Esta es la página principal de las funciones
 
 ---
 Las siguientes son las funciones básicas de RAWRR. Responden al orden mostrado en la sección "flujos de trabajo", aunque pueden ejecutarse en el orden que desees.
