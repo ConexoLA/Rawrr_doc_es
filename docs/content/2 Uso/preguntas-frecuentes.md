@@ -33,9 +33,17 @@ RAWRR está diseñado para usar una instancia por organización, incluso en su p
 
 En este momento RAWRR no cuenta con funciones de seguimiento posterior a la intervención inicial de seguridad, sin embargo, estamos desarrollando esas nuevas funcionalidades para que estén disponibles en el 2022. Mientras tanto, si tienes el archivo .bd de una intervención anterior previamente exportado, puedes utilizarlo como base para realizar los ajustes del seguimiento.
 
-## ¿Qué medidas debo tomar para proteger la información que almacenaré en RAWRR? 
+## ¿Qué medidas debo tomar para proteger la información que almacenaré en RAWRR?
 
 Le recomendamos que utilice RAWRR dentro de un contenedor cifrado como una máquina virtual o un volumen cifrado.
+
+## ¿Cuáles son los planes para mejorar RAWRR a corto plazo?
+
+* Visualización de la evolución en el tiempo comparando el estado actual de la organización con estados pasados
+* Gestión de múltiples organizaciones por instancia
+* Funciones de accesibilidad
+* Secciones de informes personalizados
+* Edición de texto enriquecido
 
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="instalacion" >}} <i class="arrow left"></i> Instalación  {{< /button >}}
