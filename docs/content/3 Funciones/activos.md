@@ -19,41 +19,41 @@ Son los recursos materiales y humanos con los que cuenta la organización y que 
 
 Si has iniciado RAWRR importando un archivo o cargando los valores de prueba, es conveniente que puedas revisar detenidamente la información precargada antes de crear o editar algún elemento. Para ver la lista completa de activos puedes hacer clic en “Todos” en la parte inferior derecha junto a la frase “Filas por página”. También puedes seleccionar ver cinco (5), diez (10) o quince (15) elementos por página.
 
-![](/images/as-lista.png)
+![](/images/lista-activos.png)
 
-## Create asset
+## Crear activo
 
-To add assets, click on **"Add new"** at the top left and complete the fields that will appear in the form: name, description and category.
+Para agregar activos haz click en **“Agregar”** arriba a la izquierda y completa los campos que aparecerán en el formulario: nombre, descripción y categoría.
 
-![](/images/as-1.png)
+![](/images/agregar-activos.png)
 
-Categories will help you classify assets. When you are done click on **"Insert"**.
+Las categorías te ayudarán a clasificar los activos. Cuando hayas terminado haz clic en **“Insertar”**.
 
-![](/images/as-crear.png)
+![](/images/insertar-nuevo-activo.png)
 
-## Edit asset
+## Editar activo
 
-To edit, click on the pencil icon located to the right of each asset that appears in the existing list.
+Para editar haz clic en el ícono del lápiz ubicado a la derecha de cada uno de los activos que aparecen en la lista preexistente.
 
-![](/images/as-editar.png)
+![](/images/editar-activo.png)
 
-When you finish editing the name, description and/or category fields, click **"Update"** to save the changes to the asset you selected.
+Cuando termines de editar los campos de nombre, descripción y/o categoría, haz clic en **“Actualizar”** para guardar los cambios en el activo que seleccionaste.
 
-![](/images/as-editar-2.png)
+![](/images/actualizar-activo.png)
 
-## Delete asset
+## Eliminar activo
 
-If you want to remove an asset from the list, click on the trash can icon located to the right of each of the assets that appear in the pre-existing list.
+Si deseas eliminar algún activo de la lista, también podrás hacerlo haciendo clic en el ícono de la papelera ubicado a la derecha de cada uno de los activos que aparecen en la lista preexistente.
 
-![](/images/as-eliminar.png)
+![](/images/eliminar-activo.png)
 
-When you click, a confirmation message will appear. If you agree to delete the asset, click **"Delete"**.
+Cuando hagas clic aparecerá un mensaje de confirmación. Si estás de acuerdo con eliminar el activo haz clic en **“Eliminar”**.
 
-![](/images/as-eliminar-2.png)
+![](/images/confirmar-eliminar-activo.png)
 
-You can also delete multiple assets by selecting them in the left box and then clicking on **“Delete Assets”**.
+También puedes eliminar varios activos seleccionándolos en la casilla izquierda y a continuación haz clic en **“Eliminar Activos”**.
 
-![](/images/as-delete-varios.png)
+![](/images/eliminar-varios-activos.png)
 
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="inicio" >}} <i class="arrow left"> </i> Inicio {{< /button >}}
