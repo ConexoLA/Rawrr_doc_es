@@ -12,49 +12,43 @@ weight: "4"
 {{< button size="large" relref="vulnerabilidades" >}} Vulnerabilidades <i class="arrow right"></i>{{< /button >}}
 </div>
 
-RAWRR uses the Risks-Vulnerabilities-Recommendations framework and therefore threat and risk management is one of the first logical steps. Each threat can be assigned a level of impact on the organization's work as well as a level of the probability of occurrence. The basic features of RAWRR related to threats are:
+RAWRR utiliza la estructura Riesgos-Vulnerabilidades-Recomendaciones y, por lo tanto, la gestión de amenazas y riesgos es uno de los primeros pasos lógicos. Cada amenaza puede tener asociado su impacto en el trabajo de la organización y la probabilidad de ocurrencia como base. Las funciones básicas de RAWRR relativas a las amenazas son:
 
-## View list of threats
+## Ver lista de amenazas
 
-If you have started RAWRR by importing a file or loading the test values, it is convenient that you can carefully review the preloaded information before creating or editing any item. To see the full list of threats you can click on "All" in the lower right next to the phrase "Rows per page". You can also select to view five (5), ten (10), or fifteen (15) items per page.
+Si has iniciado RAWRR importando un archivo o cargando los valores de prueba, es conveniente que puedes revisar detenidamente la información precargada antes de crear o editar algún elemento. Para ver la lista completa de amenazas puedes hacer clic en **“Todos”** en la parte inferior derecha junto a la frase **“Filas por página”**. También puedes seleccionar ver cinco (5), diez (10) o quince (15) elementos por página.
 
-![](/images/am-lista.png)
+![](/images/lista-amenazas.png)
 
-## Create threat
+## Crear amenaza
 
-To add threats click **"Add new"** top left and complete the fields: name, description, type of threat, asset, impact and probability
+Para agregar amenazas haz click en **“Agregar”** arriba a la izquierda y completa los campos que aparecerán en el formulario: nombre, descripción, tipo de amenaza, activo, impacto y probabilidad.
 
-![](/images/am-nueva-1.png)
+![](/images/agregar-amenaza.png)Cuando hayas terminado haz clic en **“Insertar”**.
 
-When you are done click on **"Insert"**.
+![](/images/guardar-nueva-amenaza.png)
 
-![](/images/am-nueva-2.png)
+## Editar amenaza
 
-## Edit threat
+Para editar haz click en el ícono del lápiz ubicado a la derecha de cada una de las amenazas que aparecen en la lista preexistente.
 
-To edit, click on the pencil icon located to the right of each threat that appears in the pre-existing list.
+![](/images/editar-amenaza.png)
 
-![](/images/am-editar-1.png)
+Cuando termines de editar los campos de nombre, descripción, tipo de amenaza, activo, impacto y/o probabilidad, haz clic en **“Actualizar”** para guardar los cambios en la amenaza que seleccionaste.
 
-When you finish editing the name, description, threat type, asset, impact and/or probability fields, click **"Update"** to save the changes to the threat you selected.
+![](/images/actualizar-amenaza.png)
 
-![](/images/am-editar-2.png)
+## Eliminar amenaza
 
-## Delete threat
+Si deseas eliminar alguna amenaza de la lista, también podrás hacerlo haciendo clic en el ícono de la papelera ubicado a la derecha de cada una de las amenazas que aparecen en la lista preexistente.
 
-If you want to delete a threat from the list, click on the trash can icon located to the right of each threat that appears in the pre-existing list.
+![](/images/am-eliminar-1.png)Cuando hagas clic aparecerá un mensaje de confirmación. Si estás de acuerdo con eliminar la amenaza haz clic en **“Eliminar”**.
 
-![](/images/am-eliminar-1.png)
+![](/images/confirmar-eliminar-amenaza.png)
 
-When you click, a confirmation message will appear. If you agree to remove the threat, click **"Delete"**.
+También puedes eliminar varias amenazas seleccionandolas en la casilla izquierda y a continuación haz clic en **“Eliminar Amenazas”**.
 
-![](/images/am-eliminar-2.png)
-
-You can also delete multiple threats by selecting them in the left box and then clicking **"Delete Threats"**.
-
-![](/images/am-eliminar-3.png)
-
-<div style="display: flex; justify-content: space-between">
+![](/images/eliminar-amenazas.png)<div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="actividades" >}} <i class="arrow left"></i> Actividades {{< /button >}}
 
 {{< button size="large" relref="vulnerabilidades" >}} Vulnerabilidades <i class="arrow right"></i>{{< /button >}}
