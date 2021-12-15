@@ -46,15 +46,13 @@ Si deseas eliminar alguna vulnerabilidad de la lista, también podrás hacerlo h
 
 ![](/images/vul-eliminar-1.png)
 
-Cuando hagas clic en aparecerá un mensaje de confirmación. Si estás de acuerdo con eliminar la vulnerabilidad haz clic en **“Delete”**.
+Cuando hagas clic en aparecerá un mensaje de confirmación. Si estás de acuerdo con eliminar la vulnerabilidad haz clic en **“Eliminar”**.
 
-![](/images/vul-eliminar-2.png)
+![](/images/conf-eliminar-vulnerabilidad.png)
 
-You can also delete various vulnerabilities by selecting them in the left box and then clicking on **"Delete Vulnerabilities"**.
+También puedes eliminar varias vulnerabilidades seleccionandolas en la casilla izquierda y a continuación haz clic en **“Eliminar vulnerabilidades”**.
 
-![](/images/vul-eliminar-3.png)
-
-<div style="display: flex; justify-content: space-between">
+![](/images/eliminar-vulnerabilidades.png)<div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="amenazas" >}} <i class="arrow left"></i> Amenazas  {{< /button >}}
 
 {{< button size="large" relref="recomendaciones" >}} Recomendaciones <i class="arrow right"></i>{{< /button >}}
