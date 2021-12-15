@@ -16,37 +16,37 @@ En el caso estándar un resultado de las actividades de evaluación es encontrar
 
 ## Ver lista de vulnerabilidades
 
-Si has iniciado RAWRR importando un archivo o cargando los valores de prueba, es conveniente que puedes revisar detenidamente la información precargada antes de crear o editar algún elemento. Para ver la lista completa de vulnerabilidades puedes hacer clic en “All” en la parte inferior derecha junto a la frase “Rows per page”. También puedes seleccionar ver cinco (5), diez (10) o quince (15) elementos por página.
+Si has iniciado RAWRR importando un archivo o cargando los valores de prueba, es conveniente que puedes revisar detenidamente la información precargada antes de crear o editar algún elemento. Para ver la lista completa de vulnerabilidades puedes hacer clic en “Todos” en la parte inferior derecha junto a la frase “Filas por página”. También puedes seleccionar ver cinco (5), diez (10) o quince (15) elementos por página.
 
 ![](/images/vulnerabilidades-lista.png)
 
-## Create vulnerability
+## Crear vulnerabilidad
 
-To add vulnerabilities click **"Add new"** top left and complete the fields that appear on the form: name, description, threat assessment activity and active.
+Para agregar vulnerabilidades haz click en **“Agregar”** arriba a la izquierda y completa los campos que aparecerán en el formulario: nombre, descripción, amenaza, actividad de evaluación y activo.
 
-The "Assessment activity" list allows you to associate a vulnerability of the organization to an activity because vulnerabilities are detected during the execution of an activity. In the same sense, the "Threat" list allows associating a vulnerability to one or more threats of the organization.
+La lista “Actividad” permite asociar una vulnerabilidad de la organización a una actividad, debido a que las vulnerabilidades se detectan durante la ejecución de una actividad.
 
-![](/images/vul-nueva-1.png)
+En el mismo sentido, la lista “Amenazas relacionadas” permite asociar una vulnerabilidad a una o más amenazas de la organización.
 
-When you are done click on **"Insert"**.
+![](/images/crear-vulnerabilidad.png)Cuando hayas terminado haz clic en **“Insertar”**.
 
-![](/images/vul-nueva-2.png)
+![](/images/insertar-vulnerabilidad.png)
 
-## Edit vulnerability
+## Editar vulnerabilidades
 
-To edit, click on the pencil icon located to the right of each vulnerability that appears in the pre-existing list.
+Para editar haz click en el ícono del lápiz ubicado a la derecha de cada una de las vulnerabilidades que aparecen en la lista preexistente.
 
-![](/images/vul-editar-1.png)When you finish editing the name, description, threat, assessment activity, and/or asset fields, click **"Update"** to save the changes to the vulnerability you selected.
+![](/images/editar-vulnerabilidad.png)Cuando termines de editar los campos de nombre, descripción, amenaza, actividad de evaluación y/o activo, haz clic en **“Actualizar”** para guardar los cambios en la vulnerabilidad que seleccionaste.
 
-![](/images/vul-editar-2.png)
+![](/images/actualizar-vulnerabilidad.png)
 
-## Remove vulnerability
+## Eliminar vulnerabilidad
 
-If you want to remove any vulnerability from the list, click on the trash can icon located to the right of each vulnerability that appears in the pre-existing list.
+Si deseas eliminar alguna vulnerabilidad de la lista, también podrás hacerlo haciendo clic en el ícono de la papelera ubicado a la derecha de cada una de las vulnerabilidades que aparecen en la lista preexistente.
 
 ![](/images/vul-eliminar-1.png)
 
-When you click on a confirmation message will appear. If you agree to remove the vulnerability, click **"Delete"**.
+Cuando hagas clic en aparecerá un mensaje de confirmación. Si estás de acuerdo con eliminar la vulnerabilidad haz clic en **“Delete”**.
 
 ![](/images/vul-eliminar-2.png)
 
