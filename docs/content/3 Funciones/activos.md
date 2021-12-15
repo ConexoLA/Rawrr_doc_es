@@ -13,11 +13,11 @@ weight: "2"
 
 </div>
 
-They are the material and human resources of the organization that it desires to protect. Material resources take into account elements such as devices, software, websites, and servers. The basic functions of RAWRR related to assets are:
+Son los recursos materiales y humanos con los que cuenta la organización y que es deseable que sean protegidos. Los recursos materiales toman en cuenta elementos como dispositivos, software, sitios web y servidores. Las funciones básicas de RAWRR relativas a los activos son:
 
-## View asset list
+## Ver lista de activos
 
-If you have started RAWRR by importing a file or loading the test values, it is convenient that you can carefully review the preloaded information before creating or editing any element. To see the full list of assets you can click on “All” in the lower right next to the phrase “Rows per page”. You can also select to view five (5), ten (10), or fifteen (15) items per page.
+Si has iniciado RAWRR importando un archivo o cargando los valores de prueba, es conveniente que puedas revisar detenidamente la información precargada antes de crear o editar algún elemento. Para ver la lista completa de activos puedes hacer clic en “Todos” en la parte inferior derecha junto a la frase “Filas por página”. También puedes seleccionar ver cinco (5), diez (10) o quince (15) elementos por página.
 
 ![](/images/as-lista.png)
 
