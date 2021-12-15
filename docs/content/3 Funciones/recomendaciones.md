@@ -52,7 +52,7 @@ Cuando hagas clic aparecerá un mensaje de confirmación. Si estás de acuerdo c
 
 También puedes eliminar varias recomendaciones seleccionándolas en la casilla izquierda y a continuación haz clic en **“Eliminar Recomendaciones”**.
 
-![](/images/eliminar-recomendaciones.png)<div style="display: flex; justify-content: space-between">
+![](/images/eliminar-varias-recomendaciones.png)<div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="vulnerabilidades" >}} <i class="arrow left"></i> Vulnerabilidades {{< /button >}}
 
 {{< button size="large" relref="reportes" >}} Reportes <i class="arrow right"></i>{{< /button >}}
