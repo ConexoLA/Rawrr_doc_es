@@ -12,13 +12,13 @@ weight: "5"
 {{< button size="large" relref="recomendaciones" >}} Recomendaciones <i class="arrow right"></i>{{< /button >}}
 </div>
 
-One result of the assessment activities is to find vulnerabilities. They can be specified and linked to the activities that generated them and the related risks. The basic functions of RAWRR related to vulnerabilities are:
+En el caso estándar un resultado de las actividades de evaluación es encontrar vulnerabilidades. Las mismas se especificarán y vincularán a las actividades que las generaron y los riesgos relacionados. Las funciones básicas de RAWRR relativas a las vulnerabilidades son:
 
-## View list of vulnerabilities
+## Ver lista de vulnerabilidades
 
-If you have started RAWRR by importing a file or loading the test values, it is convenient that you can carefully review the preloaded information before creating or editing any element. To see the full list of vulnerabilities you can click on "All" in the lower right next to the phrase "Rows per page". You can also select to view five (5), ten (10), or fifteen (15) items per page.
+Si has iniciado RAWRR importando un archivo o cargando los valores de prueba, es conveniente que puedes revisar detenidamente la información precargada antes de crear o editar algún elemento. Para ver la lista completa de vulnerabilidades puedes hacer clic en “All” en la parte inferior derecha junto a la frase “Rows per page”. También puedes seleccionar ver cinco (5), diez (10) o quince (15) elementos por página.
 
-![](/images/am-lista.png)
+![](/images/vulnerabilidades-lista.png)
 
 ## Create vulnerability
 
