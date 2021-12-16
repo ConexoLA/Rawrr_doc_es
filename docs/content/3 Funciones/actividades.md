@@ -12,45 +12,45 @@ weight: "3"
 {{< button size="large" relref="amenazas" >}} Amenazas <i class="arrow right"></i> {{< /button >}}
 </div>
 
-Some examples of the activities include interviews, technical scans, and additional asset or data mapping. The basic functions of RAWRR related to the activities are:
+Algunos ejemplos de esas actividades incluyen entrevistas, escaneos técnicos y mapeo adicional de activos o datos. Las funciones básicas de RAWRR relativas a la actividades son:
 
-## View activity list
+## Ver lista de actividades
 
-If you have started RAWRR by importing a file or loading the test values, it is convenient that you can carefully review the preloaded information before creating or editing any element. To see the full list of activities you can click on **“All”** in the lower right next to the phrase “Rows per page”. You can also select to view five (5), ten (10), or fifteen (15) items per page.
+Si has iniciado RAWRR importando un archivo o cargando los valores de prueba, es conveniente que puedas revisar detenidamente la información precargada antes de crear o editar algún elemento. Para ver la lista completa de actividades puedes hacer clic en “Todos” en la parte inferior derecha junto a la frase “Filas por página”. También puedes seleccionar ver cinco (5), diez (10) o quince (15) elementos por página.
 
-![](/images/ac-listar.png)
+![](/images/actividades-lista.png)
 
-## Create activities
+## Crear actividades
 
-To add activities, click on **"Add new"** at the top left and complete the fields that will appear in the form: name, description and assets.
+Para agregar actividades haz click en **“Agregar”** arriba a la izquierda y completa los campos que aparecerán en el formulario: nombre, descripción y activos.
 
-![](/images/ac-nueva-ac.png)
+![](/images/agregar-actividades.png)Cuando hayas terminado haz clic en **“Insertar”**.
 
-When you are done click on **"Insert"**.
+![](/images/insertar-nueva-actividad.png)
 
-![](/images/ac-nueva-ac-2.png)
+## Editar actividades
 
-## Edit activities
+Para editar haz click en el ícono del lápiz ubicado a la derecha de cada una de las actividades que aparecen en la lista preexistente.
 
-To edit, click on the pencil icon located to the right of each activity that appears in the existing list.
+![](/images/editar-actividades.png)
 
-![](/images/ac-editar-1.png)When you finish editing the name, description and/or asset fields, click **"Update"** to save the changes to the activity you selected.
+Cuando termines de editar los campos de nombre, descripción y/o activo, haz clic en **“Actualizar”** para guardar los cambios en la actividad que seleccionaste.
 
-![](/images/ac-editar-2.png)
+![](/images/actualizar-edicion-de-actividad.png)
 
-## Delete activities
+## Eliminar actividades
 
-If you want to delete an activity from the list, click on the trash can icon located to the right of each activity that appears in the existing list.
+Si deseas eliminar alguna actividad de la lista, también podrás hacerlo haciendo clic en el ícono de la papelera ubicado a la derecha de cada uno de las actividades que aparecen en la lista preexistente.
 
-![](/images/ac-eliminar-1.png)
+![](/images/eliminar-actividades.png)
 
-When you click, a confirmation message will appear. If you agree to delete the activity, click **"Delete"**.
+Cuando hagas clic aparecerá un mensaje de confirmación. Si estás de acuerdo con eliminar la actividad haz clic en **“Eliminar”**.
 
-![](/images/ac-eliminar-2.png)
+![](/images/confirmar-eliminar-actividades.png)
 
-You can also delete multiple activities by selecting them in the left box and then clicking **"Delete Activities"**.
+También puedes eliminar varias actividades seleccionandolas en la casilla izquierda y a continuación haz clic en **“Eliminar Actividades”**.
 
-![](/images/ac-eliminar-3.png)
+![](/images/eliminar-varias-actividades.png)
 
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="activos" >}} <i class="arrow left"></i> Activos {{< /button >}}
