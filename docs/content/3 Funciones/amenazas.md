@@ -24,9 +24,11 @@ Si has iniciado RAWRR importando un archivo o cargando los valores de prueba, es
 
 Para agregar amenazas haz click en **“Agregar”** arriba a la izquierda y completa los campos que aparecerán en el formulario: nombre, descripción, tipo de amenaza, activo, impacto y probabilidad.
 
-![](/images/agregar-amenaza.png)Cuando hayas terminado haz clic en **“Insertar”**.
+![](/images/agregar-amenaza.png)
 
-![](/images/guardar-nueva-amenaza.png)
+Cuando hayas terminado haz clic en **“Insertar”**.
+
+![](/images/insertar-nueva-amenaza.png)![](/images/insertar-nueva-amenaza.png)
 
 ## Editar amenaza
 
