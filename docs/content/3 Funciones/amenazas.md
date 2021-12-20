@@ -28,7 +28,7 @@ Para agregar amenazas haz click en **“Agregar”** arriba a la izquierda y com
 
 Cuando hayas terminado haz clic en **“Insertar”**.
 
-![](/images/insertar-nueva-amenaza.png)![](/images/insertar-nueva-amenaza.png)
+![](/images/insertar-nueva-amenaza.png)
 
 ## Editar amenaza
 
@@ -38,19 +38,33 @@ Para editar haz click en el ícono del lápiz ubicado a la derecha de cada una d
 
 Cuando termines de editar los campos de nombre, descripción, tipo de amenaza, activo, impacto y/o probabilidad, haz clic en **“Actualizar”** para guardar los cambios en la amenaza que seleccionaste.
 
-![](/images/actualizar-amenaza.png)
+![](/images/actualizar-editar-amenaza.png)
 
 ## Eliminar amenaza
 
 Si deseas eliminar alguna amenaza de la lista, también podrás hacerlo haciendo clic en el ícono de la papelera ubicado a la derecha de cada una de las amenazas que aparecen en la lista preexistente.
 
-![](/images/am-eliminar-1.png)Cuando hagas clic aparecerá un mensaje de confirmación. Si estás de acuerdo con eliminar la amenaza haz clic en **“Eliminar”**.
+![](/images/eliminar-amenaza.png)
 
-![](/images/confirmar-eliminar-amenaza.png)
+Cuando hagas clic aparecerá un mensaje de confirmación. Si estás de acuerdo con eliminar la amenaza haz clic en **“Eliminar”**.
+
+![](/images/confirmar-eliminacion.png)
 
 También puedes eliminar varias amenazas seleccionandolas en la casilla izquierda y a continuación haz clic en **“Eliminar Amenazas”**.
 
-![](/images/eliminar-amenazas.png)<div style="display: flex; justify-content: space-between">
+![](/images/eliminar-multi-amenaza.png)
+
+## Matriz de riesgo
+
+Arriba en el medio encontrarás el botón **"Matriz de riesgo"**. Puedes hacer clic en cualquier momento durante la carga de las amenazas, o al finalizar su identificación, para ver el gráfico que identifica con un número cada amenaza y la posiciona en el gráfico de acuerdo con su impacto y probabilidad construyendo así la matriz de riesgo de la organización que estás evaluando.
+
+![](/images/def-mat-riesgo.png)
+
+Para ver el nombre completo de una amenaza (y el resto de los datos asociados), puedes pasar el cursor por encima del número que identifica la amenaza.
+
+![](/images/matriz-de-riesgo.png)
+
+<div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="actividades" >}} <i class="arrow left"></i> Actividades {{< /button >}}
 
 {{< button size="large" relref="vulnerabilidades" >}} Vulnerabilidades <i class="arrow right"></i>{{< /button >}}
