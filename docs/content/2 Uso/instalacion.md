@@ -36,6 +36,8 @@ Para instalar los paquetes que te permitirán modificar RAWRR o, en el otro caso
 **Opcional**  
 Si necesitas crear el directorio, puedes ejecutarlo fácilmente con <span style="color:grey">**`mkdir path/to/working/directory`**</span>
 
+{{< /hint >}}
+
 2. Clona nuestro repositorio RAWRR
 
 ```Shell
