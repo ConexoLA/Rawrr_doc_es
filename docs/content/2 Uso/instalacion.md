@@ -74,7 +74,7 @@ Si deseas modificar RAWRR usando la opción de recarga en caliente de electron, 
 npm run electron:serve
 ```
 
-Este comando iniciará un servidor de desarrollo para probar la aplicación (como puedes ver en la imagen a continuación)
+Este comando iniciará un servidor de desarrollo para probar la aplicación (como puedes ver en la imagen a continuación):
 
 ![Serve image](/images/serve.png)
 
