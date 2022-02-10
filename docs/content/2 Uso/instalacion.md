@@ -31,20 +31,19 @@ Para instalar los paquetes que te permitirán modificar RAWRR o, en el otro caso
    cd path/to/working/directory
    ```
 
-{{< hint info >}} 
+{{< hint info >}}
 
 **Opcional**  
 Si necesitas crear el directorio, puedes ejecutarlo fácilmente con <span style="color:grey">**`mkdir path/to/working/directory`**</span>
 
-{{< /hint >}}
+2. Clona nuestro repositorio RAWRR
 
-1. Clona nuestro repositorio RAWRR
+```Shell
+# Cloning base repository
+git clone https://github.com/ConexoLA/Rawrr_dev.git
+```
 
-   ```Shell
-   # Cloning base repository
-   git clone https://github.com/ConexoLA/Rawrr_dev.git
-   ```
-2. Instala las dependencias
+3. Instala las dependencias
 
 Dependiendo del uso que desees darle a RAWRR, puedes modificar el código usando la funcionalidad de recarga en caliente o generar el ejecutable compilando el proyecto.
 
@@ -57,7 +56,7 @@ npm install
 
 ![npm install image](/images/npm_install.png)
 
-{{< hint info >}} 
+{{< hint info >}}
 
 **Información**  
 En este punto podrías:
@@ -77,9 +76,11 @@ npm run electron:serve
 
 Este comando iniciará un servidor de desarrollo para probar la aplicación (como puedes ver en la imagen a continuación)
 
-![Serve image](/images/serve.png)Después de que se inicie el servidor, te darás cuenta de que la aplicación se está probando en modo de desarrollo porque las herramientas habituales para los desarrolladores están activadas:
+![Serve image](/images/serve.png)
 
- ![](/images/image-1.png)
+Después de que se inicie el servidor, te darás cuenta de que la aplicación se está probando en modo de desarrollo porque las herramientas habituales para los desarrolladores están activadas:
+
+![](/images/image-1.png)
 
 ### Crear el ejecutable de RAWRR
 
