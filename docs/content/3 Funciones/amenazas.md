@@ -18,51 +18,53 @@ RAWRR utiliza la estructura Riesgos-Vulnerabilidades-Recomendaciones y, por lo t
 
 Si has iniciado RAWRR importando un archivo o cargando los valores de prueba, es conveniente que puedes revisar detenidamente la información precargada antes de crear o editar algún elemento. Para ver la lista completa de amenazas puedes hacer clic en **“Todos”** en la parte inferior derecha junto a la frase **“Filas por página”**. También puedes seleccionar ver cinco (5), diez (10) o quince (15) elementos por página.
 
-![](/images/lista-amenazas.png)
+![](/images/amenazas-ver-lista.png)
 
 ## Crear amenaza
 
 Para agregar amenazas haz click en **“Agregar”** arriba a la izquierda y completa los campos que aparecerán en el formulario: nombre, descripción, tipo de amenaza, activo, impacto y probabilidad.
 
-![](/images/agregar-amenaza.png)
+![](/images/amenazas-agregar1.png)
 
 Cuando hayas terminado haz clic en **“Insertar”**.
 
-![](/images/insertar-nueva-amenaza.png)
+![](/images/amenazas-agregar2.png)
 
 ## Editar amenaza
 
 Para editar haz click en el ícono del lápiz ubicado a la derecha de cada una de las amenazas que aparecen en la lista preexistente.
 
-![](/images/editar-amenaza.png)
+![](/images/amenazas-editar1.png)
 
 Cuando termines de editar los campos de nombre, descripción, tipo de amenaza, activo, impacto y/o probabilidad, haz clic en **“Actualizar”** para guardar los cambios en la amenaza que seleccionaste.
 
-![](/images/actualizar-editar-amenaza.png)
+![](/images/amenazas-editar2.png)
 
 ## Eliminar amenaza
 
 Si deseas eliminar alguna amenaza de la lista, también podrás hacerlo haciendo clic en el ícono de la papelera ubicado a la derecha de cada una de las amenazas que aparecen en la lista preexistente.
 
-![](/images/eliminar-amenaza.png)
+![](/images/amenazas-eliminar1.png)
 
 Cuando hagas clic aparecerá un mensaje de confirmación. Si estás de acuerdo con eliminar la amenaza haz clic en **“Eliminar”**.
 
-![](/images/confirmar-eliminacion.png)
+![](/images/amenazas-eliminar2.png)
 
 También puedes eliminar varias amenazas seleccionandolas en la casilla izquierda y a continuación haz clic en **“Eliminar Amenazas”**.
 
-![](/images/eliminar-multi-amenaza.png)
+![](/images/amenazas-eliminar3.png)
 
 ## Matriz de riesgo
 
 Arriba en el medio encontrarás el botón **"Matriz de riesgo"**. Puedes hacer clic en cualquier momento durante la carga de las amenazas, o al finalizar su identificación, para ver el gráfico que identifica con un número cada amenaza y la posiciona en el gráfico de acuerdo con su impacto y probabilidad construyendo así la matriz de riesgo de la organización que estás evaluando.
 
-![](/images/def-mat-riesgo.png)
+![](/images/amenazas-matriz-de-riesgo.png)
 
 Para ver el nombre completo de una amenaza (y el resto de los datos asociados), puedes pasar el cursor por encima del número que identifica la amenaza.
 
-![](/images/matriz-de-riesgo.png)
+Tienes la opción de exportar la matriz de amenazas como una imagen, solo tienes que hacer clic en el botón **"Exportar como imagen".**
+
+![](/images/amenazas-matriz-de-riesgo2.png)
 
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="actividades" >}} <i class="arrow left"></i> Actividades {{< /button >}}

@@ -28,31 +28,37 @@ La lista “Actividad” permite asociar una vulnerabilidad de la organización 
 
 En el mismo sentido, la lista “Amenazas relacionadas” permite asociar una vulnerabilidad a una o más amenazas de la organización.
 
-![](/images/crear-vulnerabilidad.png)Cuando hayas terminado haz clic en **“Insertar”**.
+![](/images/vulnerabilidades-agregar.png)
 
-![](/images/insertar-vulnerabilidad.png)
+Cuando hayas terminado haz clic en **“Insertar”**.
+
+![](/images/vulnerabilidades-agregar2.png)
 
 ## Editar vulnerabilidades
 
 Para editar haz click en el ícono del lápiz ubicado a la derecha de cada una de las vulnerabilidades que aparecen en la lista preexistente.
 
-![](/images/editar-vulnerabilidad.png)Cuando termines de editar los campos de nombre, descripción, amenaza, actividad de evaluación y/o activo, haz clic en **“Actualizar”** para guardar los cambios en la vulnerabilidad que seleccionaste.
+![](/images/vulnerabilidades-editar.png)
 
-![](/images/actualizar-vulnerabilidad.png)
+Cuando termines de editar los campos de nombre, descripción, amenaza, actividad de evaluación y/o activo, haz clic en **“Actualizar”** para guardar los cambios en la vulnerabilidad que seleccionaste.
+
+![](/images/vulnerabilidades-editar2.png)
 
 ## Eliminar vulnerabilidad
 
 Si deseas eliminar alguna vulnerabilidad de la lista, también podrás hacerlo haciendo clic en el ícono de la papelera ubicado a la derecha de cada una de las vulnerabilidades que aparecen en la lista preexistente.
 
-![](/images/vul-eliminar-1.png)
+![](/images/vulnerabilidades-eliminar.png)
 
 Cuando hagas clic en aparecerá un mensaje de confirmación. Si estás de acuerdo con eliminar la vulnerabilidad haz clic en **“Eliminar”**.
 
-![](/images/conf-eliminar-vulnerabilidad.png)
+![](/images/vulnerabilidades-eliminar2.png)
 
 También puedes eliminar varias vulnerabilidades seleccionandolas en la casilla izquierda y a continuación haz clic en **“Eliminar vulnerabilidades”**.
 
-![](/images/eliminar-vulnerabilidades.png)<div style="display: flex; justify-content: space-between">
+![](/images/vulnerabilidades-eliminar3.png)
+
+<div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="amenazas" >}} <i class="arrow left"></i> Amenazas  {{< /button >}}
 
 {{< button size="large" relref="recomendaciones" >}} Recomendaciones <i class="arrow right"></i>{{< /button >}}

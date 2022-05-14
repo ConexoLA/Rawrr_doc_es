@@ -12,17 +12,17 @@ weight: "7"
 {{< button size="large" relref="#" >}} <i class="arrow right"></i>{{< /button >}}
 </div>
 
- El resultado principal de una evaluación y la forma más común de comunicarse con la organización suele ser a través de un reporte. Se pueden crear y personalizar uno o más reportes para diferentes audiencias, por ejemplo, crear un reporte para los directores de la organización y otro para el departamento de TI con solo las recomendaciones muy técnicas y específicas. Las funciones básicas de RAWRR relativas a los reportes son:
+El resultado principal de una evaluación y la forma más común de comunicarse con la organización suele ser a través de un reporte. Se pueden crear y personalizar uno o más reportes para diferentes audiencias, por ejemplo, crear un reporte para los directores de la organización y otro para el departamento de TI con solo las recomendaciones muy técnicas y específicas. Las funciones básicas de RAWRR relativas a los reportes son:
 
 ## Crear reporte
 
 Para crear un reporte debes seleccionar cuáles son los elementos que quieres que contenga. Al abrir la sección de Reportes encontrarás la pantalla dividida en dos secciones. La de la derecha mostrará inicialmente todos los elementos, por sección, que fueron cargados en esa instancia de RAWRR. Aquellos elementos que no quieras que aparezcan en el reporte podrán ser removidos uno a uno y aparecerán del lado izquierdo de la pantalla.
 
-![](/images/principal-reporte.png)
+![](/images/reporte-home.png)
 
 La remoción de un contenido puede hacerse de dos maneras. La primera es remover individualmente los elementos de un sección haciendo clic en el botón **“Quitar”** ubicado a la derecha de cada elemento.
 
-![](/images/bolton-quitar.png)
+![](/images/reporte-quitar.png)
 
 La segunda es haciendo clic en el ícono circular **“Quitar todos”** ubicado a la derecha del título de cada sección.
 
@@ -40,11 +40,11 @@ También puedes cambiar el orden en el que aparece cada elemento de un sección 
 
 Una vez que hayas seleccionado los contenidos que deseas que tenga el reporte puedes exportarlo haciendo clic en el botón **“Exportar reporte”** ubicado arriba y a la derecha de la sección de reportes.
 
-![](/images/exportar-reporte.png)
+![](/images/reporte-exportar.png)
 
 A continuación selecciona el formato en el que deseas exportar, y en el diálogo de tu sistema operativo, selecciona el nombre y la ubicación deseada para el reporte.
 
-![](/images/formato-exportar-reporte.png)
+![](/images/reporte-exportar1.png)
 
 ## Acerca de los archivos en Microsoft Word (.docx)
 
