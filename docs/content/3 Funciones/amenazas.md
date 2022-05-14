@@ -62,8 +62,6 @@ Arriba en el medio encontrarás el botón **"Matriz de riesgo"**. Puedes hacer c
 
 Para ver el nombre completo de una amenaza (y el resto de los datos asociados), puedes pasar el cursor por encima del número que identifica la amenaza.
 
-Tienes la opción de exportar la matriz de amenazas como una imagen, solo tienes que hacer clic en el botón **"Exportar como imagen".**
-
 ![](/images/amenazas-matriz-de-riesgo2.png)
 
 <div style="display: flex; justify-content: space-between">
