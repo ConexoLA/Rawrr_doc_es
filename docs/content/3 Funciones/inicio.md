@@ -13,7 +13,7 @@ weight: "1"
 
 </div>
 
-En la pantalla de inicio de RAWRR aparecen algunas notas básicas relacionadas al estado actual del programa y te invitamos a enviar tus comentarios y recomendaciones de mejoras. 
+En la pantalla de inicio de RAWRR aparecen algunas notas básicas relacionadas al estado actual del programa y te invitamos a enviar tus comentarios y recomendaciones de mejoras.
 
 Para empezar, **selecciona el idioma** con el deseas usar el programa. Por los momentos está disponible en **inglés, español y portugués** (Brasil).
 
@@ -26,7 +26,7 @@ Adicionalmente, aparecen cuatro (4) botones:
 
 A continuación podrás iniciar la carga/edición de la información relacionada con la intervención de seguridad que estés realizando para que, al finalizar, RAWRR pueda ayudarte con la generación del reporte de recomendaciones. Se puede cargar información en cualquier orden, pero el orden sugerido por la barra de navegación es el siguiente: assets (activos), activities (actividades), threats (amenazas), vulnerabilities (vulnerabilidades), recommendations (recomendaciones) y report (reporte).
 
-![](/images/home-espanol.png)
+![](/images/espanol.png)
 
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="#" >}} <i class="arrow left"></i> {{< /button >}}
