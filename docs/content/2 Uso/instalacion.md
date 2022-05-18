@@ -38,14 +38,14 @@ Si necesitas crear el directorio, puedes ejecutarlo fácilmente con <span style=
 
 {{< /hint >}}
 
-2. Clona nuestro repositorio RAWRR
+1. Clona nuestro repositorio RAWRR
 
 ```Shell
 # Cloning base repository
 git clone https://github.com/ConexoLA/Rawrr_dev.git
 ```
 
-3. Instala las dependencias
+1. Instala las dependencias
 
 Dependiendo del uso que desees darle a RAWRR, puedes modificar el código usando la funcionalidad de recarga en caliente o generar el ejecutable compilando el proyecto.
 
@@ -82,7 +82,7 @@ Este comando iniciará un servidor de desarrollo para probar la aplicación (com
 
 Después de que se inicie el servidor, te darás cuenta de que la aplicación se está probando en modo de desarrollo porque las herramientas habituales para los desarrolladores están activadas:
 
-![](/images/image-1.png)
+![](/images/espanol-1.png)
 
 ### Crear el ejecutable de RAWRR
 
