@@ -18,7 +18,7 @@ El resultado principal de una evaluación y la forma más común de comunicarse 
 
 Para crear un reporte debes seleccionar cuáles son los elementos que quieres que contenga. Al abrir la sección de Reportes encontrarás la pantalla dividida en dos secciones. La de la derecha mostrará inicialmente todos los elementos, por sección, que fueron cargados en esa instancia de RAWRR. Aquellos elementos que no quieras que aparezcan en el reporte podrán ser removidos uno a uno y aparecerán del lado izquierdo de la pantalla.
 
-![](/images/principal-reporte.png)
+![](/images/base_export_es.png)
 
 La remoción de un contenido puede hacerse de dos maneras. La primera es remover individualmente los elementos de un sección haciendo clic en el botón **“Quitar”** ubicado a la derecha de cada elemento.
 
@@ -51,6 +51,8 @@ A continuación selecciona el formato en el que deseas exportar, y en el diálog
 ## Exportar histórico de amenazas
 
 Una vez que hayas seleccionado el contenido de las amenazas que deseas que tenga el reporte principal, puedes exportar su histórico haciendo clic en el botón **“Exportar histórico de amenazas”** ubicado arriba y a la derecha de la sección de reportes, a la izquierda de **"Exportar reporte"**
+
+![](/images/exportar_historico_boton_es.png)
 
 ![](/images/export_threat_es.png)
 
