@@ -40,7 +40,7 @@ También puedes cambiar el orden en el que aparece cada elemento de un sección 
 
 Una vez que hayas seleccionado los contenidos que deseas que tenga el reporte puedes exportarlo haciendo clic en el botón **“Exportar reporte”** ubicado arriba y a la derecha de la sección de reportes.
 
-![](/images/exportar-reporte.png)
+![](/images/exportar_reporte_es.png)
 
 A continuación selecciona el formato en el que deseas exportar, y en el diálogo de tu sistema operativo, selecciona el nombre y la ubicación deseada para el reporte.
 
