@@ -18,11 +18,11 @@ El resultado principal de una evaluación y la forma más común de comunicarse 
 
 Para crear un reporte debes seleccionar cuáles son los elementos que quieres que contenga. Al abrir la sección de Reportes encontrarás la pantalla dividida en dos secciones. La de la derecha mostrará inicialmente todos los elementos, por sección, que fueron cargados en esa instancia de RAWRR. Aquellos elementos que no quieras que aparezcan en el reporte podrán ser removidos uno a uno y aparecerán del lado izquierdo de la pantalla.
 
-![](/images/reporte-home.png)
+![](/images/principal-reporte.png)
 
 La remoción de un contenido puede hacerse de dos maneras. La primera es remover individualmente los elementos de un sección haciendo clic en el botón **“Quitar”** ubicado a la derecha de cada elemento.
 
-![](/images/reporte-quitar.png)
+![](/images/bolton-quitar.png)
 
 La segunda es haciendo clic en el ícono circular **“Quitar todos”** ubicado a la derecha del título de cada sección.
 
@@ -40,11 +40,19 @@ También puedes cambiar el orden en el que aparece cada elemento de un sección 
 
 Una vez que hayas seleccionado los contenidos que deseas que tenga el reporte puedes exportarlo haciendo clic en el botón **“Exportar reporte”** ubicado arriba y a la derecha de la sección de reportes.
 
-![](/images/reporte-exportar.png)
+![](/images/exportar-reporte.png)
 
 A continuación selecciona el formato en el que deseas exportar, y en el diálogo de tu sistema operativo, selecciona el nombre y la ubicación deseada para el reporte.
 
-![](/images/reporte-exportar1.png)
+![](/images/formato-exportar-reporte.png)
+
+## Exportar histórico de amenazas
+
+Una vez que hayas seleccionado el contenido de las amenazas que deseas que tenga el reporte principal, puedes exportar su histórico haciendo clic en el botón **“Exportar histórico de amenazas”** ubicado arriba y a la derecha de la sección de reportes, a la izquierda de **"Exportar reporte"**
+
+![](/images/export_threat_es.png)
+
+A continuación selecciona el formato en el que deseas exportar, y en el diálogo de tu sistema operativo, selecciona el nombre y la ubicación deseada para el reporte.
 
 ## Acerca de los archivos en Microsoft Word (.docx)
 
