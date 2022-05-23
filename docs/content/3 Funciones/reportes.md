@@ -38,7 +38,9 @@ También puedes cambiar el orden en el que aparece cada elemento de un sección 
 
 ## Exportar reporte
 
-Una vez que hayas seleccionado los contenidos que deseas que tenga el reporte puedes exportarlo haciendo clic en el botón **“Exportar reporte”** ubicado arriba y a la derecha de la sección de reportes.
+Una vez que hayas seleccionado los contenidos que deseas que tenga el reporte puedes exportarlo haciendo clic en el botón **“Exportar reporte”**  ubicado arriba y a la derecha de la sección de reportes.
+
+**![](/images/exportar_reporte_boton_es.png)**
 
 ![](/images/exportar_reporte_es.png)
 
