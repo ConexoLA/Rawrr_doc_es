@@ -44,7 +44,7 @@ Una vez que hayas seleccionado los contenidos que deseas que tenga el reporte pu
 
 A continuación selecciona el formato en el que deseas exportar, y en el diálogo de tu sistema operativo, selecciona el nombre y la ubicación deseada para el reporte.
 
-![](/images/formato-exportar-reporte.png)
+![](/images/elegir_formato_es.png)
 
 ## Exportar histórico de amenazas
 
@@ -53,6 +53,8 @@ Una vez que hayas seleccionado el contenido de las amenazas que deseas que tenga
 ![](/images/export_threat_es.png)
 
 A continuación selecciona el formato en el que deseas exportar, y en el diálogo de tu sistema operativo, selecciona el nombre y la ubicación deseada para el reporte.
+
+![](/images/elegir_formato_es.png)
 
 ## Acerca de los archivos en Microsoft Word (.docx)
 
