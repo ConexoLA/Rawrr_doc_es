@@ -40,6 +40,20 @@ Cuando termines de editar los campos de nombre, descripción, tipo de amenaza, a
 
 ![](/images/amenazas-editar2.png)
 
+## Ver histórico de amenazas
+
+<Texto histórico amenaza>
+
+![](/images/historico_amenaza_accion-1.png)
+
+<Texto imagen histórico valores actuales>
+
+![](/images/historico_amenaza_vista_actuales.png)
+
+<texto imagen histórico cambios>
+
+![](/images/historico_amenaza_vista_cambios.png)
+
 ## Eliminar amenaza
 
 Si deseas eliminar alguna amenaza de la lista, también podrás hacerlo haciendo clic en el ícono de la papelera ubicado a la derecha de cada una de las amenazas que aparecen en la lista preexistente.
