@@ -50,7 +50,7 @@ En esta ventana puedes visualizar los datos actuales de la amenaza que seleccion
 
 ![](/images/historico_amenaza_vista_actuales.png)
 
-También, podras visualizar las fechas en que fue creada o editada, qué información tuvo algún cambio.
+También, podras visualizar las fechas en que fue creada o editada, y qué información tuvo algún cambio.
 
 ![](/images/historico_amenaza_vista_cambios.png)
 
