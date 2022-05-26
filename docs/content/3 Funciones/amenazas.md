@@ -42,19 +42,19 @@ Cuando termines de editar los campos de nombre, descripción, tipo de amenaza, a
 
 ## Ver histórico de amenazas
 
-<Texto histórico amenaza>
+Para ver la la cronología en que se creó o editó una amenza en específica, haz click en el ícono del reloj ubicado a la derecha de cada una de las amenazas que aparecen en la lista preexistente.
 
 ![](/images/historico_amenaza_accion-1.png)
 
-<Texto imagen histórico valores actuales>
+En esta ventana puedes visualizar los datos actuales de la amenaza que seleccionaste: ID, Nombre, Descripción, Tipo, Activo, Impacto y Probabilidad de ocurrencia.
 
 ![](/images/historico_amenaza_vista_actuales.png)
 
-<texto imagen histórico cambios>
+También, podras visualizar las fechas en que fue creada o editada, qué información tuvo algún cambio.
 
 ![](/images/historico_amenaza_vista_cambios.png)
 
-<texto regresar>
+Para regresar al menu anterior, haz clic en el botón **"Regresar"**, ubicado en la esquina superior izquierda de la pantalla.
 
 ![](/images/regresar_es.png)
 
